@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Amith-2006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Amith-2006/LeetCode/tree/master/0053-maximum-subarray) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Amith-2006/LeetCode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Amith-2006/LeetCode/tree/master/0141-linked-list-cycle) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Amith-2006/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
