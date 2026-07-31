@@ -4,9 +4,9 @@ public:
         int left =0,right=height.size()-1;
         int best=0;
         while(left<right){
-            int val=min(height[left],height[right])*(right-left);
-            if(val>best)
-                best=val;
+
+            best=max(best,min(height[left],height[right])*(right-left));
+
             if(height[left]<height[right])
                 left++;
             else
