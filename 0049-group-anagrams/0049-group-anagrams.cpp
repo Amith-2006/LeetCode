@@ -4,24 +4,20 @@ public:
                 unordered_map<string,vector<string>>res;
 
         for(const auto &s : strs){
-            vector<int>count(26,0);
+            string key(26,0);
 
-            for(char c:s){
-                count[c-'a']++;
-            }
+            for(char c:s)
+                key[c-'a']++;
 
-            string key = to_string(count[0]);
-            for(int i=0;i<26;i++){
-                key += ","+to_string(count[i]);
-            }
-                res[key].push_back(s);
-            }
             
-            vector<vector<string>>result;
-            for(const auto& pair: res){
-                result.push_back(pair.second);
-           
+            res[key].push_back(s);
         }
-         return result;
+
+            vector<vector<string>>result;
+
+            for(const auto& pair: res)
+                result.push_back(pair.second);
+
+        return result;
     }
 };
