@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amith-2006/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Amith-2006/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Amith-2006/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Amith-2006/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amith-2006/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Amith-2006/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
