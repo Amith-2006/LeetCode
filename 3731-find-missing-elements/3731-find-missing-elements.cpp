@@ -4,12 +4,15 @@ public:
     int mn = *min_element(nums.begin(), nums.end());
     int mx = *max_element(nums.begin(), nums.end());
 
-    unordered_set<int> st(nums.begin(),nums.end());
+    vector<int> st(mx - mn + 1, 0);
     vector<int>res;
 
-    for (int i = mn; i <=mx; i++){
-        if (!st.count(i))
-            res.push_back(i);
+    for (int x : nums)
+        st[x - mn]++;
+
+    for (int i = 0; i < st.size(); i++){
+        if (st[i] == 0)
+            res.push_back(i + mn);
     }
 
         return res;
