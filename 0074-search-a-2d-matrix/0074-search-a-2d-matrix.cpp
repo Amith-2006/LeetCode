@@ -8,22 +8,24 @@ public:
         int bottom = rows-1;
 
         while(top<=bottom){
-            int mid=(top+bottom)/2;
+            int mid = top+(bottom-top)/2;
 
             if(target>=matrix[mid][0] && target<=matrix[mid][cols-1]){
                 int low=0;
                 int high=cols-1;
 
-                while(high>=low){
-                    int row_mid = (high+low)/2;
+                while(low<=high){
+                    int row_mid = high+(low-high)/2;
 
                     if(target==matrix[mid][row_mid]){
                         return true;
                     }
-                    else if(target>matrix[mid][row_mid])
+                    else if(target>matrix[mid][row_mid]){
                         low=row_mid+1;
-                    else
+                    }
+                    else{
                         high=row_mid-1;
+                    }
                 }
                 return false;
             }
