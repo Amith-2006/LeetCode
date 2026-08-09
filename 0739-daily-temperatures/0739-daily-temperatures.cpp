@@ -2,17 +2,15 @@ class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
         vector<int>res(temperatures.size(),0);
-        stack<pair<int,int>> stack;
+        stack<int> stack;
 
         for(int i=0;i<temperatures.size();i++){
-            int t=temperatures[i];
-
-            while(!stack.empty() && t>stack.top().first){
-                res[stack.top().second]=i-stack.top().second;
+            while(!stack.empty() && temperatures[i]>temperatures[stack.top()]){
+                res[stack.top()]=i-stack.top();
                 stack.pop();
             }
 
-            stack.push({t,i});
+            stack.push(i);
         }
 
         return res;
