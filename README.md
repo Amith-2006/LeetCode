@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amith-2006/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amith-2006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/Amith-2006/LeetCode/tree/master/0739-daily-temperatures) |
 | [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -93,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amith-2006/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Amith-2006/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amith-2006/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Amith-2006/LeetCode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
