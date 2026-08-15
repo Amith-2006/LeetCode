@@ -11,7 +11,7 @@ public:
             int mid = (left+right)/2;
             hours=0;
             for(int pile : piles){
-                hours += ceil((double)pile/mid); // even a partially eaten pile takes a full hour
+                hours +=(pile+mid-1)/mid; // even a partially eaten pile takes a full hour
             }
 
             if(hours>h) left=mid+1;
