@@ -4,7 +4,7 @@ public:
         
         int left=1;
         int right=*max_element(piles.begin(),piles.end());
-        double hours;
+        long long hours;
         int ans;
         
         while(left<=right){
