@@ -13,8 +13,8 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         
         int carry=0;
-        ListNode dummy(0);
-        ListNode* curr = &dummy;
+        ListNode* dummy = new ListNode(0);
+        ListNode* curr = dummy;
         while(l1||l2||carry){
             int sum = carry;
 
@@ -33,7 +33,7 @@ public:
             carry=sum/10;
         }
 
-        return dummy.next;
+        return dummy->next;
 
     }
 };
