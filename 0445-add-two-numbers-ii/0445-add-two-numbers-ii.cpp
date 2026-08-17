@@ -30,8 +30,8 @@ public:
 
         int carry = 0;
 
-        ListNode dummy(0);
-        ListNode* curr = &dummy;
+        ListNode* dummy = new ListNode(0);
+        ListNode* curr = dummy;
 
         while(l1 || l2 || carry) {
             int sum = carry;
@@ -52,6 +52,6 @@ public:
             carry = sum / 10;
         }
 
-        return reverse(dummy.next);
+        return reverse(dummy->next);
     }
 };
