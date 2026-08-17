@@ -10,10 +10,9 @@
  */
 class Solution {
 public:
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-
+    ListNode* reverse(ListNode* head) {
         ListNode* prev = NULL;
-        ListNode* curr = l1;
+        ListNode* curr = head;
 
         while(curr) {
             ListNode* next = curr->next;
@@ -21,22 +20,18 @@ public:
             prev = curr;
             curr = next;
         }
-        l1 = prev;
 
-        prev = NULL;
-        curr = l2;
+        return prev;
+    }
 
-        while(curr) {
-            ListNode* next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-        l2 = prev;
+    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        l1 = reverse(l1);
+        l2 = reverse(l2);
 
         int carry = 0;
+
         ListNode dummy(0);
-        curr = &dummy;
+        ListNode* curr = &dummy;
 
         while(l1 || l2 || carry) {
             int sum = carry;
@@ -57,16 +52,6 @@ public:
             carry = sum / 10;
         }
 
-        prev = NULL;
-        curr = dummy.next;
-
-        while(curr) {
-            ListNode* next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-
-        return prev;
+        return reverse(dummy.next);
     }
 };
