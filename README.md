@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amith-2006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/Amith-2006/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Amith-2006/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Amith-2006/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amith-2006/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Amith-2006/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0853-car-fleet](https://github.com/Amith-2006/LeetCode/tree/master/0853-car-fleet) |
 | [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -120,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amith-2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/Amith-2006/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Amith-2006/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Amith-2006/LeetCode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amith-2006/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Amith-2006/LeetCode/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Amith-2006/LeetCode/tree/master/0853-car-fleet) |
 ## Sliding Window
 |  |
 | ------- |
