@@ -26,8 +26,6 @@ public:
             }
             st.push_back(i);
         }
-
-
         return res;
     }
 };
