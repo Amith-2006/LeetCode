@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amith-2006/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Amith-2006/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Amith-2006/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amith-2006/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Amith-2006/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amith-2006/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Amith-2006/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Amith-2006/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amith-2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/Amith-2006/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1776-car-fleet-ii](https://github.com/Amith-2006/LeetCode/tree/master/1776-car-fleet-ii) |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amith-2006/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Amith-2006/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
