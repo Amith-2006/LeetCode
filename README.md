@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amith-2006/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/Amith-2006/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1776-car-fleet-ii](https://github.com/Amith-2006/LeetCode/tree/master/1776-car-fleet-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Amith-2006/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Queue
 |  |
 | ------- |
