@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amith-2006/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amith-2006/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Amith-2006/LeetCode/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/Amith-2006/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Amith-2006/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Amith-2006/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amith-2006/LeetCode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Amith-2006/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amith-2006/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/Amith-2006/LeetCode/tree/master/0561-array-partition) |
 | [0853-car-fleet](https://github.com/Amith-2006/LeetCode/tree/master/0853-car-fleet) |
 | [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amith-2006/LeetCode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Amith-2006/LeetCode/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Amith-2006/LeetCode/tree/master/0069-sqrtx) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Amith-2006/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
