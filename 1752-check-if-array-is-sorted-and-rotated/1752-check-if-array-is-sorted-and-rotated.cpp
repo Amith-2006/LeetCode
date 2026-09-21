@@ -11,7 +11,7 @@ public:
             else if(flag==0){
                 flag =1;
             }
-            else if(flag==1){
+            else{
                 return false;
             }
         }
