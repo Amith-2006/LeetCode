@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Amith-2006/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Amith-2006/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Amith-2006/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Amith-2006/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1776-car-fleet-ii](https://github.com/Amith-2006/LeetCode/tree/master/1776-car-fleet-ii) |
 | [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
