@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Amith-2006/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Amith-2006/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1776-car-fleet-ii](https://github.com/Amith-2006/LeetCode/tree/master/1776-car-fleet-ii) |
+| [1929-concatenation-of-array](https://github.com/Amith-2006/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/Amith-2006/LeetCode/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Amith-2006/LeetCode/tree/master/0051-n-queens) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Amith-2006/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
